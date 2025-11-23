@@ -127,7 +127,7 @@ const Hero = () => {
   
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br bg-slate-900 pt-14 pb-8">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br bg-gray-900 pt-14 pb-8">
       <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="space-y-4">
           {/* Welcome Badge */}
